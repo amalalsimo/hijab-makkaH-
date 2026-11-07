@@ -1,0 +1,8 @@
+{
+  "name": "حجاب مكة — إدارة المحتوى وتجربة الشراء عبر واتساب",
+  "description": "منصة متجر حجاب مكة لتجهيز صور التصنيفات الاحترافية والتسجيلات الصوتية بالدارجة المغربية ومحاكاة تجربة الشراء عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
